@@ -1,1 +1,1 @@
-print('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')
+print('.')
